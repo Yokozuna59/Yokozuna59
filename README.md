@@ -1,4 +1,4 @@
-# Hello there <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></a>, it's Potato 🍟<a href=null><img src="https://komarev.com/ghpvc/?username=Yokozuna59&color=dc143c" align=right></a>
+# Hello there <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, it's Potato 🍟<a href=null><img src="https://komarev.com/ghpvc/?username=Yokozuna59&color=dc143c" align=right></a>
 
 ## Who am I?
 
