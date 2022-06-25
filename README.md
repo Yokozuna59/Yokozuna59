@@ -24,4 +24,4 @@ I am a Bachelor [Software Engineering](http://www.kfupm.edu.sa/departments/ics/P
 
 ## Most Used Languages
 
-<a href="https://github.com/Yokozuna59"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokozuna59&langs_count=6&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Most Used Languages"></a>
+<a href="https://github.com/Yokozuna59"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokozuna59&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Most Used Languages"></a>
