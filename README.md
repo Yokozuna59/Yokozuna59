@@ -1,4 +1,4 @@
-# Hello there <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, it's Potato 🍟<a href=null><img src="https://komarev.com/ghpvc/?username=Yokozuna59&color=dc143c" align=right></a>
+<!-- # Hello there <a href=null><img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30"></a>, it's Potato 🍟<a href=null><img src="https://komarev.com/ghpvc/?username=Yokozuna59&color=dc143c" align=right></a>
 
 ## Who am I?
 
@@ -19,9 +19,9 @@ I am a Bachelor [Software Engineering](http://www.kfupm.edu.sa/departments/ics/P
 <a href="https://www.hackerrank.com/Yokozuna59"><img src="assets/python-language-badge.svg" alt="Python Badge" width="100px"></href> <a href="https://www.hackerrank.com/Yokozuna59"><img src="assets/c-language-badge.svg" alt="C Badge" width="100px"></href>
 
 ## GitHub Stats
-
+-->
 <a href="http://www.github.com/Yokozuna59"><img src="https://github-readme-stats.vercel.app/api?username=Yokozuna59&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="GitHub stats"></a>
 
-## Most Used Languages
+<!-- ## Most Used Languages-->
 
 <a href="https://github.com/Yokozuna59"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yokozuna59&langs_count=5&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Most Used Languages"></a>
